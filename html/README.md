@@ -7,7 +7,7 @@ This is HTML standard chapter entry, you can start read from here.
 
 <a name="Semantic-tag"></a>
 
-### Semantic tag
+### # Semantic tag
 
 **Use HTML5 semantic tag replace div tag.**
 
@@ -35,7 +35,7 @@ Good
 
 <a name="Double-quotation-mark-in-tag"></a>
 
-### Double quotation mark in tag
+### # Double quotation mark in tag
 
 **Use double quotation mark replace single quotation mark in tag.**
 
