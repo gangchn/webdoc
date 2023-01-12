@@ -10,6 +10,6 @@ How to collaborate effectively? There is no square without rules, and it is diff
 
 ## Navigation
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HTML (HyperText Markup Language) is a descriptive language that specifies webpage structure.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
+- [HTML](https://github.com/gangchn/webdoc/tree/main/html)
+- [CSS](https://github.com/gangchn/webdoc/tree/main/css)
+- [Javascript](https://github.com/gangchn/webdoc/tree/main/javascript)
