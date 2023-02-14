@@ -13,13 +13,15 @@ This is Javascript for ECMAScript 2009(ES5) standard chapter entry, you can star
 Bad
 
 ```
-MYCARD
-my-posts
+var MYCARD = 'red car'
+
+var my-posts = ['Hello webdoc']
 ```
 
 Good
 
 ```
-myCard
-myPosts
+var myCard = 'red car'
+
+var myPosts = ['Hello webdoc']
 ```
