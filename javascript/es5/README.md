@@ -4,6 +4,7 @@ This is Javascript for ECMAScript 2009(ES5) standard chapter entry, you can star
 
 - [Variable naming](#Variable-naming)
 - [Constant naming](#Constant-naming)
+- [Enumeration naming](#Enumeration-naming)
 
 <a name="Variable-naming"></a>
 
@@ -47,4 +48,38 @@ Good
 const MIN_NUMBER = 0
 
 const MAX_NUMBER = 10
+```
+
+<a name="Enumeration-naming"></a>
+
+### # Enumeration naming
+
+**It is best experience for using PascalCase to naming enumeration.**
+
+Bad
+
+```
+const NATURE_WEEK = {
+  SUNDAY: 'SUNDAY',
+  MONDAY: 'MONDAY',
+  TUESDAY: 'TUESDAY',
+  WEDNESDAY: 'WEDNESDAY',
+  THURSDAY: 'THURSDAY',
+  FRIDAY: 'FRIDAY',
+  SATURDAY: 'SATURDAY'
+}
+```
+
+Good
+
+```
+const NatureWeek = {
+  SUNDAY: 'SUNDAY',
+  MONDAY: 'MONDAY',
+  TUESDAY: 'TUESDAY',
+  WEDNESDAY: 'WEDNESDAY',
+  THURSDAY: 'THURSDAY',
+  FRIDAY: 'FRIDAY',
+  SATURDAY: 'SATURDAY'
+}
 ```
