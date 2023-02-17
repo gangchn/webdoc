@@ -5,6 +5,7 @@ This is Javascript for ECMAScript 2009(ES5) standard chapter entry, you can star
 - [Variable naming](#Variable-naming)
 - [Constant naming](#Constant-naming)
 - [Enumeration naming](#Enumeration-naming)
+- [String use single quotation marks](#String-use-single-quotation-marks)
 
 <a name="Variable-naming"></a>
 
@@ -82,4 +83,20 @@ const NatureWeek = {
   FRIDAY: 'FRIDAY',
   SATURDAY: 'SATURDAY'
 }
+```
+
+<a name="String-use-single-quotation-marks"></a>
+
+### # String use single quotation marks
+
+Bad
+
+```
+const name = "gangchn"
+```
+
+Good
+
+```
+const name = 'gangchn'
 ```
